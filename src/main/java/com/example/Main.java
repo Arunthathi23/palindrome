@@ -21,7 +21,7 @@ public class Main {
         }
 
         if (original == reverse)
-            Syste.out.println("Palindrome Number");
+            System.out.println("Palindrome Number");
         else
             System.out.println("Not a Palindrome Number");
 
